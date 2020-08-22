@@ -1,0 +1,46 @@
+server:
+  port: 8081
+  servlet: 
+    context-path: /resource-server
+
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8083/auth/realms/mali
+          jwk-set-uri: http://localhost:8083/auth/realms/mali/protocol/openid-connect/certs
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: test
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  
+
+default:
+  productImageUrl: default Product Image Url
+  categoryImageUrl: default Category Image Url
+
+
+#logging:
+#  level:
+#    org:
+#      hibernate:
+#        type:
+#          descriptor:
+#            sql:
+#              BasicBinder: TRACE
+#
+#
+#        SQL: DEBUG
+
