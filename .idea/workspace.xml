@@ -2,523 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89e5b8ff-6674-4e37-b4ba-f77f2083eb71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ben_manes_caffeine_caffeine_2_8_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_patch_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ua_parser_uap_java_1_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_owasp_java_html_sanitizer_owasp_java_html_sanitizer_20191001_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_8_18_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openshift_openshift_restclient_java_8_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_javax_activation_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_messaging_saaj_saaj_impl_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_stream_buffer_streambuffer_1_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_ws_policy_2_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_ws_rt_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_webauthn4j_webauthn4j_core_0_10_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_webauthn4j_webauthn4j_util_0_10_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_soap_jakarta_xml_soap_api_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jws_javax_jws_api_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_soap_javax_xml_soap_api_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_ws_jaxws_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_james_apache_mime4j_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerby_asn1_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_santuario_xmlsec_2_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_external_management_api_3_0_0_b012.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_gmbal_gmbal_api_only_3_1_0_b001.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_ha_ha_api_3_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_json_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_infinispan_infinispan_cachestore_remote_10_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_infinispan_infinispan_client_hotrod_10_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_infinispan_infinispan_commons_10_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_infinispan_infinispan_core_10_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_infinispan_infinispan_multimap_10_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_infinispan_protostream_protostream_4_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_dmr_1_3_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_client_3_11_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jackson2_provider_3_11_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jaxb_provider_3_11_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jaxrs_3_11_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_multipart_provider_3_11_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_3_spec_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_servlet_jboss_servlet_api_4_0_spec_2_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_3_spec_2_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_ws_rs_jboss_jaxrs_api_2_1_spec_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_xml_bind_jboss_jaxb_api_2_3_spec_1_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jgroups_jgroups_4_1_9_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_mimepull_mimepull_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_authz_policy_common_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_common_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_core_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_js_adapter_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_kerberos_federation_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_ldap_federation_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_model_infinispan_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_model_jpa_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_saml_core_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_saml_core_public_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_server_spi_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_server_spi_private_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_services_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_sssd_federation_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_themes_10_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_liquibase_liquibase_core_3_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_oauth2_resource_server_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_core_5_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_jose_5_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_resource_server_5_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_twitter4j_twitter4j_core_4_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_common_wildfly_common_1_5_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_asn1_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_auth_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_auth_server_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_base_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_credential_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_keystore_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_digest_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_oauth2_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_scram_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_permission_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_provider_util_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_digest_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_external_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_oauth2_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_plain_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_scram_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_ssl_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_util_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_x500_1_10_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/auth-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/stationery/auth/AuthorizationServerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/stationery/auth/config/EmbeddedKeycloakApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/stationery/auth/config/EmbeddedKeycloakConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/stationery/auth/config/KeycloakServerProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/stationery/auth/config/RegularJsonConfigProviderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/stationery/auth/config/Resteasy3Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/stationery/auth/config/SimplePlatformProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/META-INF/keycloak-server.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/META-INF/services/org.keycloak.common.util.ResteasyProvider" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/META-INF/services/org.keycloak.platform.PlatformProvider" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/mytest.jks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/realm.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/account/resources/css/account.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/account/resources/img/baeldung.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/account/resources/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/account/resources/img/icon-sidebar-active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/account/resources/img/keycloak-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/account/resources/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/account/theme.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/index.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/admin-console.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/alert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/bug.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/css/welcome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/geo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/jboss_community.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/keycloak-project.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/keycloak_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/mail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/resources/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/themes/custom/welcome/theme.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/test/java/com/stationery/auth/AuthorizationServerLiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-server/src/test/java/com/stationery/auth/ContextIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/resource-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/ApiResourceServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bootstrap/BootStrapMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/abstractAndInterfaces/AbstractService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/abstractAndInterfaces/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/address/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/address/AddressDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/address/AddressService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/address/AddressServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/admin/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/admin/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/admin/AdminDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/cart/CartDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/cart/CartService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/cart/CartServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/cartItem/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/cartItem/CartItemDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/cartItem/CartItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/cartItem/CartItemServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/category/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/category/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/category/CategoryDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/category/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/category/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/customer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/customer/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/customer/CustomerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/customer/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/customer/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/grade/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/grade/GradeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/grade/GradeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/grade/GradeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/gradeLevel/GradeLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/gradeLevel/GradeLevelDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/gradeLevel/GradeLevelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/gradeLevel/GradeLevelServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/offer/Offer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/offer/OfferController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/offer/OfferDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/offer/OfferService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/offer/OfferServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/order/OrderDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/order/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/order/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderDetails/OrderDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderDetails/OrderDetailsDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderDetails/OrderDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderDetails/OrderDetailsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderItem/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderItem/OrderItemDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderItem/OrderItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderItem/OrderItemServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderStatus/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderStatus/OrderStatusDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderStatus/OrderStatusService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderStatus/OrderStatusServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/orderStatus/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/packages/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/packages/PackageDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/packages/PackageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/packages/PackageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/product/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/product/ProductDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/product/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/product/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/productImage/ProductImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/productImage/ProductImageDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/productImage/ProductImageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/productImage/ProductImageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/productPatch/ProductPatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/productPatch/ProductPatchDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/productPatch/ProductPatchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/productPatch/ProductPatchServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/shipper/Shipper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/shipper/ShipperController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/shipper/ShipperDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/user/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/user/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/user/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/user/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/bundle/user/UserType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/config/security/MyUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/config/security/OrganizationSubClaimAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/config/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/config/security/UserInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/exceptions/EmailExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/exceptions/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/exceptions/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/exceptions/RestExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/utilities/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/validation/PasswordConstraintValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/validation/PasswordMatches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/validation/PasswordMatchesValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/stationery/store/validation/ValidPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/test/java/stationery/store/StationeryStoreApiApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/stationery-store-db/db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/stationery-store-db/dummy-data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/stationery-store-db/users-configurations.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/StationeryStoreApiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bootstrap/BootStrapMySQL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/abstractAndInterfaces/AbstractService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/abstractAndInterfaces/BaseEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/address/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/address/AddressDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/address/AddressService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/address/AddressServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/admin/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/admin/AdminController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/admin/AdminDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/cart/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/cart/CartDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/cart/CartService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/cart/CartServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/cartItem/CartItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/cartItem/CartItemDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/cartItem/CartItemService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/cartItem/CartItemServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/category/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/category/CategoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/category/CategoryDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/category/CategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/category/CategoryServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/customer/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/customer/CustomerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/customer/CustomerDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/customer/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/customer/CustomerServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/grade/Grade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/grade/GradeDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/grade/GradeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/grade/GradeServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/gradeLevel/GradeLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/gradeLevel/GradeLevelDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/gradeLevel/GradeLevelService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/gradeLevel/GradeLevelServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/offer/Offer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/offer/OfferDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/offer/OfferService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/offer/OfferServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/order/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/order/OrderDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/order/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/order/OrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderDetails/OrderDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderDetails/OrderDetailsDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderDetails/OrderDetailsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderDetails/OrderDetailsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderItem/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderItem/OrderItemDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderItem/OrderItemService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderItem/OrderItemServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderStatus/OrderStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderStatus/OrderStatusDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderStatus/OrderStatusService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderStatus/OrderStatusServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/orderStatus/Status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/packages/Package.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/packages/PackageDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/packages/PackageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/packages/PackageServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/product/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/product/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/product/ProductDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/product/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/product/ProductServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/productImage/ProductImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/productImage/ProductImageDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/productImage/ProductImageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/productImage/ProductImageServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/productPatch/ProductPatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/productPatch/ProductPatchDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/productPatch/ProductPatchService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/productPatch/ProductPatchServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/shipper/Shipper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/shipper/ShipperController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/shipper/ShipperDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/user/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/user/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/user/UserDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/user/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/user/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/bundle/user/UserType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/config/WebConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/config/jwt/AuthFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/config/jwt/JwtResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/config/jwt/SignInRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/config/jwt/TokenUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/config/security/MyUserDetailsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/config/security/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/exceptions/EmailExistsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/exceptions/ErrorResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/exceptions/NotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/exceptions/RestExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/utilities/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/validation/PasswordConstraintValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/validation/PasswordMatches.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/validation/PasswordMatchesValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stationery/store/validation/ValidPassword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stationery/store/StationeryStoreApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stationery-store-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stationery-store-db/db.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stationery-store-db/dummy-data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stationery-store-db/users-configurations.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/StationeryStoreApiApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bootstrap/BootStrapMySQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/abstractAndInterfaces/BaseEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/address/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/address/AddressDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/address/AddressService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/address/AddressServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/admin/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/admin/AdminController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/admin/AdminDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/cart/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/cart/CartDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/cart/CartService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/cart/CartServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/cartItem/CartItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/cartItem/CartItemDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/cartItem/CartItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/cartItem/CartItemServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/category/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/category/CategoryDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/category/CategoryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/category/CategoryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/customer/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/customer/CustomerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/grade/Grade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/grade/GradeDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/grade/GradeService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/grade/GradeServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/gradeLevel/GradeLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/gradeLevel/GradeLevelDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/gradeLevel/GradeLevelService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/gradeLevel/GradeLevelServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/offer/Offer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/offer/OfferDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/offer/OfferService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/offer/OfferServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/order/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/order/OrderDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/order/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/order/OrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderDetails/OrderDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderDetails/OrderDetailsDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderDetails/OrderDetailsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderDetails/OrderDetailsServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderItem/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderItem/OrderItemDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderItem/OrderItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderItem/OrderItemServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderStatus/OrderStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderStatus/OrderStatusDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderStatus/OrderStatusService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderStatus/OrderStatusServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/orderStatus/Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/packages/Package.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/packages/PackageDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/packages/PackageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/packages/PackageServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/product/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/product/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/product/ProductDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/product/ProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/product/ProductServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/productImage/ProductImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/productImage/ProductImageDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/productImage/ProductImageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/productImage/ProductImageServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/productPatch/ProductPatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/productPatch/ProductPatchDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/productPatch/ProductPatchService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/productPatch/ProductPatchServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/shipper/Shipper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/shipper/ShipperDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/user/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/user/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/user/UserDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/user/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/bundle/user/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/config/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/exceptions/EmailExistsException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/exceptions/ErrorResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/exceptions/NotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/exceptions/RestExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/utilities/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/validation/PasswordConstraintValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/validation/PasswordMatches.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/validation/PasswordMatchesValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stationery/store/validation/ValidPassword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-stationery.store.StationeryStoreApiApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/stationery.store.StationeryStoreApiApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stationery/store/StationeryStoreApiApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource-server/resource-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/resource-server/resource-server.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -612,22 +96,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598015719289</updated>
-      <workItem from="1598015727966" duration="7017000" />
+      <workItem from="1598015727966" duration="7263000" />
     </task>
+    <task id="LOCAL-00001" summary="initial for microservice project">
+      <created>1598093672396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598093672396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial for microservice project">
+      <created>1598093740573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598093740573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="initial for microservice project" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial for microservice project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="441" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598068347186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1598068347186" />
-    <state x="187" y="0" key="CommitChangelistDialog2" timestamp="1598093665446">
+    <state x="187" y="0" key="CommitChangelistDialog2" timestamp="1598093738963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="187" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598093665446" />
+    <state x="187" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598093738963" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1598093462510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -688,10 +192,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598093521357" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1598093686810">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1598093747203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598093686810" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598093747203" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1598015775770">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
