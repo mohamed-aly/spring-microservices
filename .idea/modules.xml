@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/auth-server/auth-server.iml" filepath="$PROJECT_DIR$/auth-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-server/oauth-authorization-server.iml" filepath="$PROJECT_DIR$/auth-server/oauth-authorization-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/resource-server/resource-server.iml" filepath="$PROJECT_DIR$/resource-server/resource-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/store-api.iml" filepath="$PROJECT_DIR$/store-api.iml" />
     </modules>

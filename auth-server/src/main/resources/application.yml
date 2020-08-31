@@ -3,13 +3,13 @@ server:
 
 spring:
   datasource:
-    username: test
+    username: sa
     url: jdbc:h2:mem:testdb
 
 keycloak:
   server:
     contextPath: /auth
     adminUser:
-      username: mali-admin
+      username: admin
       password: pass
     realmImportFile: mali-realm.json
